@@ -1,5 +1,9 @@
 #Android
 
+#Learning Resources
+* **Developing Android Apps** on Udacity - https://www.udacity.com/course/developing-android-apps--ud853
+
+
 #Android Studio
 * When building projects with NDK on OS X, it's possible that `ndk.dir` is `null`.
 
