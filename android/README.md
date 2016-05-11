@@ -10,6 +10,5 @@
   * Go to `Preferences > Appearances & Behavior > System Settings > Android SDK > SDK Tools` and 
   check the box next to Android NDK.
 
-  * Once downloaded, the NDK will be located at `/Users/{username}/Library/Android/sdk/ndk-bundle`
-  * If Android Studio doesn't automatically configure ndk.dir, you can directly edit local.properties
-    to add `ndk.dir=/Users/{username}/Library/Android/sdk/ndk-bundle`.
+  * Once downloaded/installed, the NDK will be located at `/Users/{username}/Library/Android/sdk/ndk-bundle`
+  * If Android Studio doesn't automatically configure ndk.dir, you can directly edit local.properties to add `ndk.dir=/Users/{username}/Library/Android/sdk/ndk-bundle`.
